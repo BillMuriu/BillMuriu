@@ -4,7 +4,6 @@
 
 I started coding, at least everyday, 5 months ago. All coding projects are built from the ground up, from ideation and planning all the way to execution. Building pet projects is so much fun😁. 
 
----
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
