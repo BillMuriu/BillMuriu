@@ -1,10 +1,13 @@
+# ✌ Bill Morio
+
+**`Digital Craftsman`**
+
+I am an intermediate level back-end developer(Started coding, at least everyday, 5 months ago). All coding projects are built from the ground up, from ideation and planning all the way to execution. Building pet projects is so much fun. 
+
 <h1 align="center">Hi 👋, I'm Bill</h1>
 <h3 align="center">A backend developer from Kenya</h3>
 
 - 🌱 I’m currently learning **langchain & Django REST framework**
-
-- 👯 I’m looking to collaborate on **Django Projects**
-
 - 📫 How to reach me **billkamau17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
