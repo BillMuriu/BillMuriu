@@ -4,8 +4,8 @@
 
 I started coding, at least everyday, 5 months ago. All coding projects are built from the ground up, from ideation and planning all the way to execution. Building pet projects is so much fun😁. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillMuriu&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillMuriu&layout=compact)](https://github.com/BillMuriu/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BillMuriu&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillMuriu&layout=compact" />
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
