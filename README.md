@@ -4,6 +4,9 @@
 
 I started coding, at least everyday, 5 months ago. All coding projects are built from the ground up, from ideation and planning all the way to execution. Building pet projects is so much fun😁. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillMuriu&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillMuriu&layout=compact)](https://github.com/BillMuriu/github-readme-stats)
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -13,10 +16,3 @@ I started coding, at least everyday, 5 months ago. All coding projects are built
 <img align="left" alt="django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
----
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
